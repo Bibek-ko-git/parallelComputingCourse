@@ -1,0 +1,10 @@
+### These files should be ignore for Github
+## Compiled files
+*.o 
+
+## Executable files
+*
+!*/
+!*.*
+*.exe
+*.out
